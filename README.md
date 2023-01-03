@@ -1,4 +1,4 @@
-# Birth Trends in America: Who are having children?
+# Birth Trends in America: A Profile of Women Giving Birth?
 
 ## Table of Contents
 * [Motivation](#Motivation)
