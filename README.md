@@ -5,6 +5,7 @@
 * [Data Questions](#Data-Questions)
 * [Data Sources and Tools](#Data-Sources-and-Tools)
 * [The Process](#The-Process)
+* [Link to Presentation](#Tableau-Story)
 
 
 ## Motivation
@@ -59,3 +60,6 @@ Cleaning the census data was also very important, after pulling it in I realized
 
 I initially created visualizations in Python and put them in a PowerPoint but decided to create a Tableau story instead. I felt Tableau would provide a cleaner more uniform presentation. So what I did to pivot was pull the tables I created for the Python graphs and pulled them directly into Tableau. This created some issues such as the data not connecting but I was able to resolve a majority of them.
 </details>
+
+## The Presentation
+* [Birth Trends In America](https://public.tableau.com/app/profile/morgan.hines/viz/BirthTrendsinUS-Capstone/Story1?publish=yes)
